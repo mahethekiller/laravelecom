@@ -81,7 +81,7 @@
                                         <textarea name="message" id="message" placeholder="Comment"></textarea>
                                     </div>
                                     <div class="submit-info">
-                                        <button class="submit-btn2" type="submit">Send Message</button>
+                                        <button class="submit-btn2" type="submit">Send </button>
                                     </div>
                                 </div>
                             </div>
